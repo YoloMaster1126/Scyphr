@@ -5,7 +5,7 @@
 # This tool can tangodown nasa and more gov websites
 # 
 #
-# author : Anonymous , version 1.0
+# author : Cyphr1126 , version 1.0
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
